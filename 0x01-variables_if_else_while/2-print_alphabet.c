@@ -1,9 +1,13 @@
 #include <stdio.h>
-/*
-*Main-program begins here
-*Return:0 success
-*
-*/
+
+/**
+ * main - Entry point
+ *
+ * Description: 'putchar alphabets in small caps'
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)/*the function main*/
 {
 	char ch;

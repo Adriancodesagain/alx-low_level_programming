@@ -1,11 +1,15 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
- /*
-    *int main - main - Prints the last digit of a randomly generated number
-    *        and whether it is greater than 5, less than 6, or 0.
-    *Retun: 0 program successful
-  */
+
+/**
+ * main - Entry point
+ *
+ * description: 'checks whether last # is >5,<6,=0'
+ *
+ * Return: 0 program (success)
+ */
+
 int main(void)/*program begins here.*/
 {
 	int n;

@@ -1,12 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/*
- *main - program starts here
- *Return:0 program runs successfully.
- */
+/**
+  * main - program starts here
+  * description: 'checks whether the random number produced is +ve,-ve,0'
+  * Return: 0 program runs successfully.
+  */
 int main(void)
 {
 	int n;

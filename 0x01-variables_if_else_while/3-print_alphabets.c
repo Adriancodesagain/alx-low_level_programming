@@ -1,7 +1,11 @@
 #include <stdio.h>
-/*
-*main-programs starts here.
-Return:0 program executes with success
+
+/**
+ * main - Entry point
+ *
+ * Description: 'putchar printing alphabets in small and big caps'
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)

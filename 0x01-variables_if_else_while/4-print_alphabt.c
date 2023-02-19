@@ -1,8 +1,11 @@
 #include <stdio.h>
 
-/*
- *main-program starts here
- *Return: (0) success
+/**
+ * main - Entry point
+ *
+ * Description: 'putchar use small caps alphabet except q and e'
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
